@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+}
+header {
+    padding: 10px;
+    background: black;
+}
+header img {
+    max-height: 160px;
+}
+main {
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+li {
+    background-color: #efefef;
+    padding: 10px;
+    margin: 2px;
+}
